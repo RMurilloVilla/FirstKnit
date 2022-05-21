@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Ruben Murillo Villa"
 output: 
   html_document:
     number_sections: true
@@ -11,74 +11,53 @@ date: "`r Sys.Date()`"
 
 # A Little Survey
 
-Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas. For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation.
 
-## A short history of you.  
-Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
-  
-### my answer     
-  
+## A short history of you.
 
-     
+Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.
 
+### My answer
 
-## Your computer and your and its capability?  
- For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
+I went to Highland High School and yes I graduated in 2020. English class was a bit difficult for me while Math was the easiest for me while in High School. The best subject I did really good was Psychology.
 
-### my answer   
-  
-   
+## Your computer and your and its capability?
 
-## Others and You?   
-What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
+For this class you need a computer you can use at home. So, what kind is it (windows, Apple, Linux)? On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself? You also need to have have internet access. How is your connection to the internet where you live?
 
-### my answer     
-  
-   
- 
+### My answer
 
+No I already own 3 pcs and 2 Macbooks. A scale from 1-10 of how well I know computers I would have to say 10. I grew up with computers. My internet is alright not the best but I can't complain that it's the worst.
 
+## Others and You?
 
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be?
 
-## Aspirations?   
-What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+### My answer
 
-### my answer     
-  
-   
- 
+Ruben is fine with me as long as you don't compare me to a sandwich.
 
+## Aspirations?
 
+What do you want to achieve in life? What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
+### My answer
 
-## Past adventures?  
-Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+My achievement in life is to make others happy while staying truthful to myself. My greatest interest for college has to be psychology. Possibly doctorates or at lease master.
 
-### my answer     
-  
-   
-  
+## Past adventures?
 
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future? Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
+### My answer
 
+Yes I've only have to been to Mexico. In the future though I would love to go to Costa Rica. No I haven't been in the military and if I had a choice I would say Air Force because I was a part of the JROTC program at Highland so I have a idea on what to expect.
 
-## Why are you taking Statistics?  
-Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
-What grade do you need to attain in stats to not upset your future plans, What is your plan?  
- 
+## Why are you taking Statistics?
 
-### my answer     
-  
-   
- 
+Did you take Math 115 or Math 116 ? Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??\
+What grade do you need to attain in stats to not upset your future plans, What is your plan?
 
+### My answer
 
-
-
-
-
-  
-
-
-
-
+This is my first time taking Math 115 and no I didn't know that. The grade I would love to maintain a A but as long as I pass the class.
